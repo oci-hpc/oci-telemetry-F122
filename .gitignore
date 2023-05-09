@@ -1,0 +1,10 @@
+HOTLAPS/__*
+HOTLAPS/*.ini
+PLOTTING/*.zip
+Telemetry_Object_Generator
+database.ini
+F1_Streamer.config
+*.dat
+*.zip
+__*
+.DS*
